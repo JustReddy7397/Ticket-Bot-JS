@@ -54,4 +54,4 @@ for (const file of events) {
 
 
 
-client.login(config.bot.token)
+client.login(`${config.bot.token}`)
